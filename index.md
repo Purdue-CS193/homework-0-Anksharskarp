@@ -1,3 +1,20 @@
+# William Zhang's First CS 193 Homework
+
+My favorite things about the class:
+- The lecture quizzes (kind of like trivia, almost)
+- Funny examples and small details in the slides
+- The TAs are amazing and are super responsive on Ed Discussion. If a post a question, chances are that a TA will work with me to resolve the technical or logistical issue.
+- Can't wait to get started with terminal commands!
+
+Here's a tree below:
+
+![tree](https://www.mickeyshannon.com/photos/forest-photography.jpg)
+
+**[Image credit: Mickey Shannon Photography](https://www.mickeyshannon.com/photos/forest-photography.jpg)**
+
+
+### Note: I decided to keep the syntax guide below for future reference.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
